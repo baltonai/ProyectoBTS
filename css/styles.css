@@ -1,0 +1,22 @@
+.sobre {
+  top: 100px;
+  left: 30px;
+  opacity: 0.7;
+  background-color: grey;
+  color: white;
+  transform: rotate(10deg);
+  border: 1px solid red;
+}
+body{
+  background-color: #06111C;
+  color: white;
+}
+p{
+  color: #d5cab6;
+}
+label{
+  color: #d5cab6;
+}
+figcaption{
+  color: #d5cab6;
+}
